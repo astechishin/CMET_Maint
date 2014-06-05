@@ -1,0 +1,35 @@
+<h1>Listing cmet_versions</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Cmet</th>
+      <th>Realm</th>
+      <th>Version</th>
+      <th>Status</th>
+      <th>Status date</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @cmet_versions.each do |cmet_version| %>
+      <tr>
+        <td><%= cmet_version.cmet_id %></td>
+        <td><%= cmet_version.realm %></td>
+        <td><%= cmet_version.version %></td>
+        <td><%= cmet_version.status %></td>
+        <td><%= cmet_version.status_date %></td>
+        <td><%= link_to 'Show', cmet_version %></td>
+        <td><%= link_to 'Edit', edit_cmet_version_path(cmet_version) %></td>
+        <td><%= link_to 'Destroy', cmet_version, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Cmet version', new_cmet_version_path %>

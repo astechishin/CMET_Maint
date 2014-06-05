@@ -17,3 +17,11 @@ rerun.txt
 pickle-email-*.html
 .project
 config/initializers/secret_token.rb
+.sass-cache
+.idea
+.dat*.*
+
+# Ignore the IDE directory
+/.idea
+
+/config/database.yml

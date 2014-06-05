@@ -1,0 +1,57 @@
+id,table,code,long_value,full_value
+1,domain,MM,Materials Management,
+2,domain,PA,Patient Administration,
+3,domain,PM,Personnel Management,
+4,domain,SC,Scheduling,
+5,domain,CR,Claims and Reimbursement,
+6,domain,AB,Accounting and Billing,
+7,domain,CO,Coverage,
+8,domain,BB,'Blood/Tissue/Organ',
+9,domain,CD,CDA,Clinical Document Architecture
+10,domain,CG,Clinical Genomics,
+11,domain,CP,Common Product Model,
+12,domain,DI,Diagnostic Imaging,
+13,domain,EM,Emergency Medical Svc,Emergency Medical Services
+14,domain,II,Imaging Integration,
+15,domain,IZ,Immunization,
+16,domain,LB,Laboratory,
+17,domain,ME,Medical Products,Identification of Medicinal Products
+18,domain,NU,Diet and Nutrition,
+19,domain,OB,Observations,
+20,domain,OR,Orders,
+21,domain,PH,Public Health,
+22,domain,QM,Quality Measures,
+23,domain,RI,Informative Public Health,Informative Public Health (not currently used)
+24,domain,RP,Regulated Products,
+25,domain,RR,Regulated Reporting,
+26,domain,RT,Regulated Studies,
+27,domain,RX,Pharmacy,
+28,domain,SP,Specimen,
+29,domain,TD,Therapeutic Devices,
+30,domain,DS,Clinical Decision Support,
+31,domain,PC,Care Provision,Care Provision (Formerly Patient Care)
+32,domain,CS,Clinical Statement,
+33,domain,CT,CMETS,Common Message Elements
+34,domain,MT,Shared Messages,
+35,domain,MR,Medical Records,
+36,domain,AI,Control Act Infra,Message Control Act Infrastructure
+37,domain,CI,Transmission Infra,Transmission Infrastructure
+38,domain,AC,Act Classes,
+39,domain,EN,Entity Classes,
+40,domain,MI,Master File Infra,Master File Infrastructure
+41,domain,RO,Role Classes,
+43,domain,QI,Query Infra,Query Infrastructure
+44,ver-status,in-ballot,In Ballot,
+45,ver-status,replaced,Replaced by new version,
+46,ver-status,active,Current Normative,
+47,ver-status,retired,Never Passed,Never passed ballot - abandoned
+48,ver-status,dstu,DSTU,
+49,bal-result,pass,Passed,
+50,bal-result,reball-r,Reballot Required,
+51,bal-result,recirc-r,Recirculation Required,
+52,ball-level,dstu,DSTU,Draft Standard for Trial Use
+53,ball-level,normative,Normative,
+54,ball-level,comment,Comment Only,
+55,ball-level,inform,Informative,
+56,ball-level,committee,Committee,
+57,ball-level,member,Membership,

@@ -1,0 +1,37 @@
+<h1>Listing cmets</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Identifier</th>
+      <th>Descriptor</th>
+      <th>Attribution</th>
+      <th>Description</th>
+      <th>Work group</th>
+      <th>Domain</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @cmets.each do |cmet| %>
+      <tr>
+        <td><%= cmet.identifier %></td>
+        <td><%= cmet.descriptor %></td>
+        <td><%= cmet.attribution %></td>
+        <td><%= cmet.description %></td>
+        <td><%= cmet.work_group %></td>
+        <td><%= cmet.domain_id %></td>
+        <td><%= link_to 'Show', cmet %></td>
+        <td><%= link_to 'Edit', edit_cmet_path(cmet) %></td>
+        <td><%= link_to 'Destroy', cmet, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Cmet', new_cmet_path %>

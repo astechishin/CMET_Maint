@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Cmet:</strong>
+  <%= @cmet_version.cmet_id %>
+</p>
+
+<p>
+  <strong>Realm:</strong>
+  <%= @cmet_version.realm %>
+</p>
+
+<p>
+  <strong>Version:</strong>
+  <%= @cmet_version.version %>
+</p>
+
+<p>
+  <strong>Status:</strong>
+  <%= @cmet_version.status %>
+</p>
+
+<p>
+  <strong>Status date:</strong>
+  <%= @cmet_version.status_date %>
+</p>
+
+<%= link_to 'Edit', edit_cmet_version_path(@cmet_version) %> |
+<%= link_to 'Back', cmet_versions_path %>
