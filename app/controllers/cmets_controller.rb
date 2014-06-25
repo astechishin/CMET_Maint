@@ -1,5 +1,5 @@
 class CmetsController < ApplicationController
-  before_action :set_cmet, only: [:show, :edit, :update, :destroy]
+  before_action :set_cmet, only: [:show, :edit, :update]
 
   # GET /cmets
   # GET /cmets.json
@@ -48,16 +48,6 @@ class CmetsController < ApplicationController
         format.html { render action: 'edit' }
         format.json { render json: @cmet.errors, status: :unprocessable_entity }
       end
-    end
-  end
-
-  # DELETE /cmets/1
-  # DELETE /cmets/1.json
-  def destroy
-    @cmet.destroy
-    respond_to do |format|
-      format.html { redirect_to cmets_url }
-      format.json { head :no_content }
     end
   end
 

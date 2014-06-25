@@ -1,0 +1,18 @@
+<ul class="messages">
+  <%- [:error, :alert, :warning, :notice, :message].each do |key| -%>
+      <% if key %>
+          <% "<li id=\"#{key}\" class=\"flash-#{key}\">#{flash[key]}</li>" %>
+      <% end %>
+  <% end %>
+
+  <% if notice %>
+      <li class="notification notice">
+        <%= notice %>
+      </li>
+  <% end %>
+  <% if alert %>
+      <li class="notification alert">
+        <%= alert %>
+      </li>
+  <% end %>
+</ul>

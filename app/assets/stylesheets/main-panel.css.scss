@@ -1,0 +1,86 @@
+ul.messages {
+  border-bottom: solid 1px red;
+  font-size: 12pt;
+  font-style: italic;
+  color: red;
+}
+
+ul.ui-autocomplete {
+  position: absolute;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: solid 1px #999;
+  cursor: default;
+  li {
+    background-color: #FFF;
+    border-top: solid 1px #DDD;
+    margin: 0;
+    padding: 0;
+    a {
+      color: #000;
+      display: block;
+      padding: 3px;
+    }
+    a.ui-state-hover, a.ui-state-active {
+      background-color: #FFFCB2;
+    }
+  }
+}
+
+.form-collection {
+  input[type=checkbox] {
+    margin-left: .2em;
+    margin-right: .2em;
+  }
+}
+
+.pictogram-status {
+  text-align: center;
+  font-family: ModernPictogramsNormal;
+  font-size: 12pt;
+}
+
+.void-status {
+  color: red;
+}
+
+#main-panel {
+  meter.single {
+    height: 15px;
+    border: 1px solid black;
+
+    &:hover:before {
+      display: inline;
+      content: attr(value);
+      text-align: center;
+    }
+  }
+
+  meter.wide {
+    width: 300px;
+  }
+
+  meter.multi {
+    display: block;
+    height: 8px;
+    border: 1px solid black;
+    background-color: whitesmoke;
+
+    .disabled {
+      border: 1px inset black;
+      background-color: linear-gradient(to bottom, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+    }
+  }
+
+  meter.disabled {
+    height: 15px;
+    border: 1px inset blue;
+    background-color: linear-gradient(to bottom, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+  }
+
+  meter.null {
+    border: 1px dashed lightgray;
+    background-color: grey;
+  }
+}

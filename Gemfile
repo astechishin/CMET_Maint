@@ -20,6 +20,8 @@ gem 'coffee-rails', '~> 4.0.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
+gem 'jquery-ui-rails', '~> 4.0.2'
+gem 'jquery-ui-sass-rails'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 #gem 'turbolinks'
@@ -31,8 +33,8 @@ gem 'jbuilder', '~> 1.2'
 gem 'font-awesome-rails'
 gem 'pg_search'
 
-gem 'zurb-foundation'
-gem "compass-rails", '~>2.0.alpha.0'
+gem 'foundation-rails'
+gem 'compass-rails', '~>2.0.alpha.0'
 
 group :test, :development do
   gem 'better_errors'
@@ -42,6 +44,8 @@ group :test, :development do
   gem 'database_cleaner'
   gem 'faker'
   gem 'machinist', '>= 2.0.0.beta2'
+  gem 'rspec-legacy_formatters',  require: false
+  gem 'rspec-nc'
   gem 'thin'
   gem 'taps'
   gem 'table_print'

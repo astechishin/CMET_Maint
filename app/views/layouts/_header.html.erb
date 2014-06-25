@@ -1,0 +1,30 @@
+<div class="fixed">
+  <nav class="top-bar" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+        <h2><%= image_tag 'HL7logo.gif' %><%= link_to '  CMET Management', cmets_path %></h2>
+      </li>
+      <li class="toggle-topbar menu-icon">
+        <%= link_to '', cmets_path %>
+      </li>
+    </ul>
+
+    <section class="top-bar-section">
+      <ul class="left">
+        <%= render partial: 'layouts/notifications' %>
+      </ul>
+      <ul class="right">
+        <li class="divider hide-for-small"></li>
+        <li><%= link_to 'Work Groups', work_groups_path %></li>
+        <li class="has-dropdown">
+          <a href="#">Reports</a>
+          <ul class="dropdown">
+            <li><label>Management Reports</label></li>
+            <li class="divider"></li>
+            <li><label>Operational Reports</label></li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+  </nav>
+</div>

@@ -1,4 +1,4 @@
-<h1>Listing cmets</h1>
+<h1>Listing CMETs</h1>
 
 <table>
   <thead>
@@ -11,22 +11,20 @@
       <th>Domain</th>
       <th></th>
       <th></th>
-      <th></th>
     </tr>
   </thead>
 
   <tbody>
     <% @cmets.each do |cmet| %>
       <tr>
-        <td><%= cmet.identifier %></td>
+        <td><%= cmet.ident %></td>
         <td><%= cmet.descriptor %></td>
         <td><%= cmet.attribution %></td>
         <td><%= cmet.description %></td>
-        <td><%= cmet.work_group %></td>
-        <td><%= cmet.domain_id %></td>
-        <td><%= link_to 'Show', cmet %></td>
-        <td><%= link_to 'Edit', edit_cmet_path(cmet) %></td>
-        <td><%= link_to 'Destroy', cmet, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= cmet.work_group ? cmet.work_group.name : '' %></td>
+        <td><%= cmet.domain %></td>
+        <td><%= link_to 'Show', cmet_path(cmet.ident) %></td>
+        <td><%= link_to 'Edit', edit_cmet_path(cmet.ident) %></td>
       </tr>
     <% end %>
   </tbody>
