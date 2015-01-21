@@ -2,7 +2,7 @@
 
 <p>
   <strong>Identifier:</strong>
-  <%= @cmet.identifier %>
+  <%= @cmet.ident %>
 </p>
 
 <p>
@@ -22,13 +22,18 @@
 
 <p>
   <strong>Work group:</strong>
-  <%= @cmet.work_group %>
+  <%= @cmet.work_group.name %>
 </p>
 
 <p>
   <strong>Domain:</strong>
-  <%= @cmet.domain_id %>
+  <%= @cmet.domain %>
 </p>
 
-<%= link_to 'Edit', edit_cmet_path(@cmet) %> |
+<p>
+  <strong>Releases:</strong>
+  <ul>
+    <%= render @cmet.cmet_versions %>
+  </ul>
+</p>
 <%= link_to 'Back', cmets_path %>

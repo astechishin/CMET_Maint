@@ -1,0 +1,21 @@
+<h1>Listing work_groups</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Work Group</th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @work_groups.each do |work_group| %>
+      <tr>
+        <td></td>
+        <td><%= work_group.name %></td>
+        <td><%= link_to 'Show', work_group %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

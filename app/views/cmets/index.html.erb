@@ -1,15 +1,20 @@
 <h1>Listing CMETs</h1>
 
+<%= form_tag(cmets_path, method: :get, id: 'search-form') do %>
+    <%= text_field_tag :search, params[:search], placeholder: 'CMET Search Text' %>
+    <%= select_tag 'filter[work_group]', options_from_collection_for_select(WorkGroup.all, :id, :name), include_blank: true %>
+    <%= select_tag 'filter[domain]', options_from_collection_for_select(CodeValue.by_table('domain'), :code, :long_value), include_blank: true %>
+    <%= submit_tag 'Search', :name => nil %>
+<% end %>
+
 <table>
   <thead>
     <tr>
       <th>Identifier</th>
       <th>Descriptor</th>
       <th>Attribution</th>
-      <th>Description</th>
       <th>Work group</th>
       <th>Domain</th>
-      <th></th>
       <th></th>
     </tr>
   </thead>
@@ -20,11 +25,9 @@
         <td><%= cmet.ident %></td>
         <td><%= cmet.descriptor %></td>
         <td><%= cmet.attribution %></td>
-        <td><%= cmet.description %></td>
         <td><%= cmet.work_group ? cmet.work_group.name : '' %></td>
         <td><%= cmet.domain %></td>
         <td><%= link_to 'Show', cmet_path(cmet.ident) %></td>
-        <td><%= link_to 'Edit', edit_cmet_path(cmet.ident) %></td>
       </tr>
     <% end %>
   </tbody>
@@ -32,4 +35,4 @@
 
 <br>
 
-<%= link_to 'New Cmet', new_cmet_path %>
+<%= link_to 'New CMET Request', new_cmet_path %>

@@ -1,0 +1,7 @@
+<p id="notice"><%= notice %></p>
+<p><%= @work_group.name %></p>
+
+<ul>
+  <%= render @work_group.cmets %>
+</ul>
+<%= link_to 'Back', work_groups_path %>

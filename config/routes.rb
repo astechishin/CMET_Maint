@@ -11,5 +11,5 @@ CMETMaint::Application.routes.draw do
     resources :cmet_versions, only: [:new, :create]
   end
 
-  root 'cmets#index'
+  root to: 'cmets#index'
 end

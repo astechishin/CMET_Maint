@@ -4,7 +4,7 @@ class CmetsController < ApplicationController
   # GET /cmets
   # GET /cmets.json
   def index
-    @cmets = Cmet.all
+    @cmets = Cmet.text_search(params[:search])
   end
 
   # GET /cmets/1

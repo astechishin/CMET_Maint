@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.2'
+gem 'rails', '4.1.6'
 
 # Use postgresql as the database for Active Record
 gem 'pg'
@@ -41,11 +41,9 @@ group :test, :development do
   gem 'binding_of_caller'
   gem 'guard'
   gem 'rspec-rails'
-  gem 'database_cleaner'
   gem 'faker'
   gem 'machinist', '>= 2.0.0.beta2'
   gem 'rspec-legacy_formatters',  require: false
-  gem 'rspec-nc'
   gem 'thin'
   gem 'taps'
   gem 'table_print'
@@ -58,6 +56,8 @@ group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
 end
+
+gem 'devise'
 
 gem 'rails_12factor', group: :production
 

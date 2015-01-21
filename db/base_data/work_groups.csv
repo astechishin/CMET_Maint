@@ -1,40 +1,40 @@
-id,acronym,name,created_at,updated_at
-1,AP,Anatomic Pathology,2014-06-02,2014-06-02
-2,,Anesthesia,2014-06-02,2014-06-02
-3,AID,Application Implementation and Design,2014-06-02,2014-06-02
-4,,Arden Syntax,2014-06-02,2014-06-02
-5,,Attachments,2014-06-02,2014-06-02
-6,,Child Health,2014-06-02,2014-06-02
-7,CDS,Clinical Decision Support,2014-06-02,2014-06-02
-8,CG,Clinical Genomics,2014-06-02,2014-06-02
-9,CQI,Clinical Quality Information,2014-06-02,2014-06-02
-10,CS,Clinical Statement,2014-06-02,2014-06-02
-11,CBCC,Community Based Collaborative Care,2014-06-02,2014-06-02
-12,CGIT,Conformance & Guidance for Implementation/Testing,2014-06-02,2014-06-02
-13,,Education,2014-06-02,2014-06-02
-14,EHR,Electronic Health Records,2014-06-02,2014-06-02
-15,ES,Electronic Services,2014-06-02,2014-06-02
-16,EC,Emergency Care,2014-06-02,2014-06-02
-17,FM,Financial Management,2014-06-02,2014-06-02
-18,,Health Care Devices,2014-06-02,2014-06-02
-19,II,Imaging Integration,2014-06-02,2014-06-02
-20,ITS,Implementable Technology Specifications,2014-06-02,2014-06-02
-21,InM,Infrastructure and Messaging,2014-06-02,2014-06-02
-22,IMC,International Mentoring Committee,2014-06-02,2014-06-02
-23,MH,Mobile Health,2014-06-02,2014-06-02
-24,MnM,Modeling and Methodology,2014-06-02,2014-06-02
-25,OO,Orders and Observations,2014-06-02,2014-06-02
-26,PA,Patient Administration,2014-06-02,2014-06-02
-27,PC,Patient Care,2014-06-02,2014-06-02
-28,Pharm,Pharmacy,2014-06-02,2014-06-02
-29,PIC,Process Improvement,2014-06-02,2014-06-02
-30,PS,Project Services,2014-06-02,2014-06-02
-31,PHER,Public Health and Emergency Response,2014-06-02,2014-06-02
-32,,Publishing,2014-06-02,2014-06-02
-33,RCRIM,Regulated Clinical Research Information Management,2014-06-02,2014-06-02
-34,,Security,2014-06-02,2014-06-02
-35,SOA,Services Oriented Architecture,2014-06-02,2014-06-02
-36,SD,Structured Documents,2014-06-02,2014-06-02
-37,,Templates,2014-06-02,2014-06-02
-38,,Tooling,2014-06-02,2014-06-02
-39,Vocab,Vocabulary,2014-06-02,2014-06-02
+id,acronym,name,active,created_at,updated_at
+1,AP,Anatomic Pathology,t,2014-06-02,2014-06-02
+2,,Anesthesia,t,2014-06-02,2014-06-02
+3,AID,Application Implementation and Design,t,2014-06-02,2014-06-02
+4,,Arden Syntax,t,2014-06-02,2014-06-02
+5,,Attachments,t,2014-06-02,2014-06-02
+6,,Child Health,t,2014-06-02,2014-06-02
+7,CDS,Clinical Decision Support,t,2014-06-02,2014-06-02
+8,CG,Clinical Genomics,t,2014-06-02,2014-06-02
+9,CQI,Clinical Quality Information,t,2014-06-02,2014-06-02
+10,CS,Clinical Statement,t,2014-06-02,2014-06-02
+11,CBCC,Community Based Collaborative Care,t,2014-06-02,2014-06-02
+12,CGIT,Conformance & Guidance for Implementation/Testing,t,2014-06-02,2014-06-02
+13,,Education,t,2014-06-02,2014-06-02
+14,EHR,Electronic Health Records,t,2014-06-02,2014-06-02
+15,ES,Electronic Services and Tools,t,2014-06-02,2014-06-02
+16,EC,Emergency Care,t,2014-06-02,2014-06-02
+17,FM,Financial Management,t,2014-06-02,2014-06-02
+18,,Health Care Devices,t,2014-06-02,2014-06-02
+19,II,Imaging Integration,t,2014-06-02,2014-06-02
+20,ITS,Implementable Technology Specifications,t,2014-06-02,2014-06-02
+21,InM,Infrastructure and Messaging,t,2014-06-02,2014-06-02
+22,IMC,International Mentoring Committee,t,2014-06-02,2014-06-02
+23,MH,Mobile Health,t,2014-06-02,2014-06-02
+24,MnM,Modeling and Methodology,t,2014-06-02,2014-06-02
+25,OO,Orders and Observations,t,2014-06-02,2014-06-02
+26,PA,Patient Administration,t,2014-06-02,2014-06-02
+27,PC,Patient Care,t,2014-06-02,2014-06-02
+28,Pharm,Pharmacy,t,2014-06-02,2014-06-02
+29,PIC,Process Improvement,t,2014-06-02,2014-06-02
+30,PS,Project Services,t,2014-06-02,2014-06-02
+31,PHER,Public Health and Emergency Response,t,2014-06-02,2014-06-02
+32,,Publishing,t,2014-06-02,2014-06-02
+33,RCRIM,Regulated Clinical Research Information Management,t,2014-06-02,2014-06-02
+34,,Security,t,2014-06-02,2014-06-02
+35,SOA,Services Oriented Architecture,t,2014-06-02,2014-06-02
+36,SD,Structured Documents,t,2014-06-02,2014-06-02
+37,,Templates,t,2014-06-02,2014-06-02
+38,,Tooling,f,2014-06-02,2014-06-02
+39,Vocab,Vocabulary,t,2014-06-02,2014-06-02

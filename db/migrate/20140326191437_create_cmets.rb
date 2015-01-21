@@ -7,8 +7,12 @@ class CreateCmets < ActiveRecord::Migration
       t.text        :description
       t.references  :work_group
       t.string      :domain, limit: 2
+      t.boolean     :retired, null: false, default: false
 
       t.timestamps
+
+      t.index :ident, unique: true
+      #t.index [:descriptor, :attribution], unique: true
     end
   end
 end
