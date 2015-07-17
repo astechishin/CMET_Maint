@@ -29,7 +29,6 @@ gem 'jquery-ui-sass-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
-
 gem 'font-awesome-rails'
 gem 'pg_search'
 
