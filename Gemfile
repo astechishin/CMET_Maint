@@ -39,6 +39,7 @@ group :test, :development do
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'guard'
+  gem 'guard-rspec'
   gem 'rspec-rails'
   gem 'faker'
   gem 'machinist', '>= 2.0.0.beta2'
