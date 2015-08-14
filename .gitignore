@@ -19,6 +19,7 @@ pickle-email-*.html
 .sass-cache
 .idea
 .dat*.*
+cmet-maint.sublime-workspace
 
 # Ignore the IDE directory
 /.idea
