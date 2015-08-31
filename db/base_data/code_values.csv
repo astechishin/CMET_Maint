@@ -46,12 +46,16 @@ id,table,code,long_value,full_value
 46,ver-status,active,Current Normative,
 47,ver-status,retired,Never Passed,Never passed ballot - abandoned
 48,ver-status,dstu,DSTU,
-49,bal-result,pass,Passed,
-50,bal-result,reball-r,Reballot Required,
-51,bal-result,recirc-r,Recirculation Required,
-52,ball-level,dstu,DSTU,Draft Standard for Trial Use
-53,ball-level,normative,Normative,
-54,ball-level,comment,Comment Only,
-55,ball-level,inform,Informative,
-56,ball-level,committee,Committee,
-57,ball-level,member,Membership,
+49,ver-status,wip,Work in Progress,Currently in development
+50,bal-result,pass,Passed,
+51,bal-result,reball-r,Reballot Required,
+52,bal-result,recirc-r,Recirculation Required,
+53,ball-level,dstu,DSTU,Draft Standard for Trial Use
+54,ball-level,normative,Normative,
+55,ball-level,comment,Comment Only,
+56,ball-level,inform,Informative,
+57,ball-level,committee,Committee,
+58,ball-level,member,Membership,
+59,ball-level,dstu-n,DSTU to Normative,
+60,ball-level,reaffirm,Reaffirmation,
+61,ball-level,recirc,Recirculation,

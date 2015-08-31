@@ -1,102 +1,272 @@
-cmet id,cmet_name,attribution,description,work_group_id,domain,retired,created_at,updated_at
-COCT_MT030000,E_LivingSubject,universal,,26,,f,2015-01-19,2015-01-19
-COCT_MT030002,E_LivingSubject,identified/confirmable ,,26,,f,2015-01-19,2015-01-19
-COCT_MT030100,E_NonPersonLivingSubject,universal,,26,,f,2015-01-19,2015-01-19
-COCT_MT030101,E_NonPersonLivingSubject,Identified,,26,,f,2015-01-19,2015-01-19
-COCT_MT030102,E_NonPersonLivingSubject,identified/confirmable,,26,,f,2015-01-19,2015-01-19
-COCT_MT030107,E_NonPersonLivingSubject,informational,,26,,f,2015-01-19,2015-01-19
-COCT_MT030108,E_NonPersonLivingSubject,identified/confirmable,,26,,f,2015-01-19,2015-01-19
-COCT_MT030200,E_Person,universal,,26,,f,2015-01-19,2015-01-19
-COCT_MT030201,E_Person,identified,,26,,f,2015-01-19,2015-01-19
-COCT_MT030202,E_Person,identified/confimrable,,26,,f,2015-01-19,2015-01-19
-COCT_MT030203,E_Person,contact,,26,,f,2015-01-19,2015-01-19
-COCT_MT030207,E_Person,informational,,26,,f,2015-01-19,2015-01-19
-COCT_MT040000,R_Responsible,universal,,26,,f,2015-01-19,2015-01-19
-COCT_MT040200,R_ResponsibleParty,universal,,26,,f,2015-01-19,2015-01-19
-COCT_MT040203,R_NotificationParty,contact,,26,,f,2015-01-19,2015-01-19
-COCT_MT040205,R_ResponsibleParty,contact,,26,,f,2015-01-19,2015-01-19
-COCT_MT040300,R_ResponsibleOrganization,universal,,26,,f,2015-01-19,2015-01-19
-COCT_MT050001,R_Patient,identified,,26,,f,2015-01-19,2015-01-19
-COCT_MT050002,R_Patient,identified/confirmable,,26,,f,2015-01-19,2015-01-19
-COCT_MT050003,R_Patient,contact,,26,,f,2015-01-19,2015-01-19
-COCT_MT050007,R_Patient,informational,,26,,f,2015-01-19,2015-01-19
-COCT_MT050203,R_PatientPerson,contact,,26,,f,2015-01-19,2015-01-19
-COCT_MT050207,R_PatientPerson,informational,,26,,f,2015-01-19,2015-01-19
-COCT_MT050208,R_PatientPerson,identified/informational,,26,,f,2015-01-19,2015-01-19
-COCT_MT080000,R_Specimen,universal,,25,,f,2015-01-19,2015-01-19
-COCT_MT080100,R_Specimen,minimal,,25,,f,2015-01-19,2015-01-19
-COCT_MT080200,R_Specimen,lite,,25,,f,2015-01-19,2015-01-19
-COCT_MT110000,A_Account,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT110100,A_AccountPayor,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT110101,A_AccountPayor,identified,,17,,f,2015-01-19,2015-01-19
-COCT_MT110102,A_AccountPayor,contact,,17,,f,2015-01-19,2015-01-19
-COCT_MT110200,A_AccountPayee,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT110201,A_AccountPayee,identified,,17,,f,2015-01-19,2015-01-19
-COCT_MT110202,A_AccountPayee,basic,,17,,f,2015-01-19,2015-01-19
-COCT_MT110300,A_AccountGuarantor,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT150003,E_Organization,contact,,26,,f,2015-01-19,2015-01-19
-COCT_MT180000,A_CoverageR4,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT190000,A_FinancialTransaction,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT250000,R_Reagent,universal,,25,,f,2015-01-19,2015-01-19
-COCT_MT280000,A_Billable,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT290000,A_BillableClinicalService,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT290002,A_BillableClinicalService,basic,,17,,f,2015-01-19,2015-01-19
-COCT_MT290003,A_BillableClinicalService,referral,,17,,f,2015-01-19,2015-01-19
-COCT_MT290004,A_BillableClinicalService,encounter,,17,,f,2015-01-19,2015-01-19
-COCT_MT300000,A_BillablePharmacyDispense,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT300001,A_BillablePharmacyDispense,basic,,17,,f,2015-01-19,2015-01-19
-COCT_MT310000,A_BillablePreferredAccomodation,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT320000,A_AdjudicationObservation,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT400000,A_Charge,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT400100,A_CompositeCharge,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT410000,R_ExposureAgentCarrier,universal,,25,,f,2015-01-19,2015-01-19
-COCT_MT410300,R_ExposureAgentVector,universal,,25,,f,2015-01-19,2015-01-19
-COCT_MT411000,R_ExposureAgentFomite,universal,,25,,f,2015-01-19,2015-01-19
-COCT_MT430000,R_LabTestKit,universal,,25,,f,2015-01-19,2015-01-19
-COCT_MT440000,A_ValuedItem,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT440001,A_ValuedItem,identified,,17,,f,2015-01-19,2015-01-19
-COCT_MT440004,A_ValuedItem,minimal,,17,,f,2015-01-19,2015-01-19
-COCT_MT440005,A_ValuedItem,basic,,17,,f,2015-01-19,2015-01-19
-COCT_MT440006,A_ValuedItem,definitional,,17,,f,2015-01-19,2015-01-19
-COCT_MT440007,A_ValuedItem,informational,,17,,f,2015-01-19,2015-01-19
-COCT_MT480000,A_PublicHealthStatement,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT490000,A_BillableClinicalProduct,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT500000,R_CoveredParty,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT510000,A_Coverage,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT510001,A_Coverage,identified,,17,,f,2015-01-19,2015-01-19
-COCT_MT510002,A_Coverage,identified/confirmable,,17,,f,2015-01-19,2015-01-19
-COCT_MT510003,A_Coverage,contact,,17,,f,2015-01-19,2015-01-19
-COCT_MT510004,A_Coverage,minimal,,17,,f,2015-01-19,2015-01-19
-COCT_MT510005,A_Coverage,basic,,17,,f,2015-01-19,2015-01-19
-COCT_MT550000,R_InvestigativeSubject,universal,,25,,f,2015-01-19,2015-01-19
-COCT_MT560000,R_Subject,universal,,25,,f,2015-01-19,2015-01-19
-COCT_MT570000,A_LaboratoryProcessStep,universal,,25,,f,2015-01-19,2015-01-19
-COCT_MT580000,A_DataConsent,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT600000,A_BillableVisionDispense,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT610000,A_BillableSocialService,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT670000,R_Guarantor,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT680000,A_InvoiceCoordination,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT680002,A_InvoiceCoordination,basic,,17,,f,2015-01-19,2015-01-19
-COCT_MT680003,A_InvoiceCoordination,enhanced,,17,,f,2015-01-19,2015-01-19
-COCT_MT710000,E_Place,universal,,26,,f,2015-01-19,2015-01-19
-COCT_MT710007,E_Place,informational,,26,,f,2015-01-19,2015-01-19
-COCT_MT740000,A_BillableOralHealthService,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT750000,A_BillingSupportInformation,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT760000,A_OralHealthObservation,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT770000,A_Benefit,universal,,17,,f,2015-01-19,2015-01-19
-COCT_MT770005,A_Benefit,basic,,17,,f,2015-01-19,2015-01-19
-COCT_MT780005,A_ProviderContract,basic,,17,,f,2015-01-19,2015-01-19
-COCT_MT830110,A_DicomSequence,minimal,,19,,f,2015-01-19,2015-01-19
-COCT_MT830120,A_DicomCompositeObjectReference,minimal,,19,,f,2015-01-19,2015-01-19
-COCT_MT840000,E_PublicHealthEntity,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT840100,E_PublicHealthNonPersonLivingSubject,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT840200,E_PublicHealthPerson,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT840300,E_PublicHealthVector,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT840500,E_PublicHealthPathogen,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT841000,E_PublicHealthFomite,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT841100,E_PublicHealthMaterial,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT841200,E_PublicHealthManufacturedMaterial,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT841300,E_PublicHealthPlace,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT841400,E_PublicHealthOrganization,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT841500,E_PublicHealthPhysicalEntity,universal,,31,,f,2015-01-19,2015-01-19
-COCT_MT960000,A_SpatialCoordinate,universal,,31,,f,2015-01-19,2015-01-19
+ident,descriptor,attribution,description,work_group_id,domain,retired,created_at,updated_at
+COCT_MT010000,A_Encounter,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT010001,A_Encounter,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT010004,A_Encounter,minimal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT010007,A_Encounter,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT020000,A_Appointment,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT020001,A_Appointment,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT020002,A_Appointment,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT030000,E_LivingSubject,universal,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030002,E_LivingSubject,identified/confirmable,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030007,E_LivingSubject,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT030100,E_NonPersonLivingSubject,universal,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030101,E_NonPersonLivingSubject,identified,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030102,E_NonPersonLivingSubject,identified/confirmable,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030107,E_NonPersonLivingSubject,informational,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030108,E_NonPersonLivingSubject,identified/informational,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030200,E_Person,universal,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030201,E_Person,identified,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030202,E_Person,identified/confirmable,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030203,E_Person,contact,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT030207,E_Person,informational,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT040000,R_Responsible,universal,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT040001,R_Responsible,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT040007,R_Responsible,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT040008,R_Responsible,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT040200,R_ResponsibleParty,universal,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT040203,R_NotificationParty,contact,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT040205,R_ResponsibleParty,contact,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT040207,R_NotificationParty,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT040208,R_NotificationParty,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT040300,R_ResponsibleOrganization,universal,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT050000,R_Patient,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT050001,R_Patient,identified,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT050002,R_Patient,identified/confirmable,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT050003,R_Patient,contact,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT050004,R_Patient,clinical,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT050007,R_Patient,informational,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT050100,R_PatientLite,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT050203,R_PatientPerson,contact,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT050207,R_PatientPerson,informational,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT050208,R_PatientPerson,identified/informational,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT060000,A_Transportation,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT070000,R_LocationLocatedEntity,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT070001,R_LocationLocatedEntity,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT070002,R_LocationLocatedEntity,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT070003,R_LocationLocatedEntity,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT070007,R_LocationLocatedEntity,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT070008,R_LocationLocatedEntity,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT080000,R_Specimen,universal,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT080100,R_Specimen,minimal,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT080200,R_Specimen,lite,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT090000,R_AssignedEntity,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090001,R_AssignedEntity,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090002,R_AssignedEntity,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090003,R_AssignedEntity,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090007,R_AssignedEntity,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090008,R_AssignedEntity,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090100,R_AssignedPerson,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090101,R_AssignedPerson,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090102,R_AssignedPerson,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090103,R_AssignedPerson,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090107,R_AssignedPerson,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090108,R_AssignedPerson,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090200,R_AssignedOrganization,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090201,R_AssignedOrganization,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090202,R_AssignedOrganization,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090203,R_AssignedOrganization,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090207,R_AssignedOrganization,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090208,R_AssignedOrganization,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090300,R_AssignedDevice,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090301,R_AssignedDevice,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090302,R_AssignedDevice,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090303,R_AssignedDevice,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090307,R_AssignedDevice,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090308,R_AssignedDevice,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090400,R_AssignedParty,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090401,R_AssignedParty,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090402,R_AssignedParty,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090403,R_AssignedParty,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090407,R_AssignedParty,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT090408,R_AssignedParty,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT110000,A_Account,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT110001,A_Account,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT110100,A_AccountPayor,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT110101,A_AccountPayor,identified,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT110102,A_AccountPayor,contact,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT110200,A_AccountPayee,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT110201,A_AccountPayee,identified,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT110202,A_AccountPayee,basic,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT110300,A_AccountGuarantor,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT120000,A_Observation,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT120100,A_ObservationDx,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT120104,A_ObservationDx,minimal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT120300,A_ObservationIntolerance,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT120500,A_ObservationGeneral,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT140000,E_Device,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT140001,E_Device,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT140007,E_Device,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT150000,E_Organization,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT150001,E_Organization,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT150002,E_Organization,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT150003,E_Organization,contact,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT150007,E_Organization,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT180000,A_Coverage,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT190000,A_FinancialTransaction,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT200000,A_SupportingClinicalInformation,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT210000,A_OrderOptions,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT220000,R_MaterialMedProductPackaged,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT220001,R_MaterialMedProductPackaged,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT220002,R_MaterialMedProductPackaged,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT220100,R_OrderableMedication,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT220200,R_AdministerableMedication,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT220300,A_BillableMedication,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT221000,E_MedicationPack,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT230000,R_MaterialMedProduct,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT230001,R_MaterialMedProduct,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT230002,R_MaterialMedProduct,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT230100,R_Medication,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT230200,R_MedicationIngredient,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT231000,E_Medication,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT231101,E_Medication,identifiedKind,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT231201,E_Medication,identifiedInstance,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT240000,R_ServiceDeliveryLocation,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT240001,R_ServiceDeliveryLocation,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT240002,R_ServiceDeliveryLocation,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT240003,R_ServiceDeliveryLocation,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT240007,R_ServiceDeliveryLocation,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT240008,R_ServiceDeliveryLocation,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT250000,R_Reagent,universal,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT260003,A_DetectedMedicationIssue,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT280000,A_Billable,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT290000,A_BillableClinicalService,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT290002,A_BillableClinicalService,basic,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT290003,A_BillableClinicalService,referral,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT290004,A_BillableClinicalService,encounter,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT290010,A_BillableClinicalService,specializable universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT290011,A_BillableClinicalService,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT290012,A_BillableClinicalService,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT290013,A_BillableClinicalService,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT290014,A_BillableClinicalService,minimal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT290017,A_BillableClinicalService,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT290018,A_BillableClinicalService,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT300000,A_BillablePharmacyDispense,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT300001,A_BillablePharmacyDispense,basic,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT310000,A_BillablePreferredAccomodation,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT320000,A_AdjudicationObservation,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT330000,A_GeneticVariation,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT340000,A_Phenotype,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT350000,A_SubstanceAdministrationRequest,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT360000,A_MedicationOrder ,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400000,A_Charge,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT400001,A_Charge,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400002,A_Charge,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400003,A_Charge,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400004,A_Charge,minimal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400005,A_Charge,basic,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400007,A_Charge,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400008,A_Charge,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400100,A_CompositeCharge,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT400101,A_CompositeCharge,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400102,A_CompositeCharge,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400103,A_CompositeCharge,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400104,A_CompositeCharge,minimal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400105,A_CompositeCharge,basic,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400107,A_CompositeCharge,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT400108,A_CompositeCharge,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT410000,R_ExposureAgentCarrier,universal,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT410300,R_ExposureAgentVector,universal,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT411000,R_ExposureAgentFomite,universal,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT420000,A_AbnormalityAssessment,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT430000,R_LabTestKit,universal,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT440000,A_ValuedItem,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT440001,A_ValuedItem,identified,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT440002,A_ValuedItem,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT440004,A_ValuedItem,minimal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT440005,A_ValuedItem,basic,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT440006,A_ValuedItem,definitional,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT440007,A_ValuedItem,informational,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT450000,A_SubstanceAdministration,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT470000,A_Consent,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT480000,A_PublicHealthStatement,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT490000,A_BillableClinicalProduct,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT490001,A_BillableClinicalProduct,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT500000,R_CoveredParty,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT510000,A_Coverage2,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT510001,A_Coverage,identified,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT510002,A_Coverage,identified/confirmable,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT510003,A_Coverage,contact,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT510004,A_Coverage,minimal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT510005,A_Coverage,basic,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT510007,A_Coverage,informational,,17,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT510008,A_Coverage,identified/informational,,17,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT520001,A_CareEvent,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT530000,A_SupportingClinicalStatement,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT530004,A_SupportingClinicalStatement,minimal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT530100,temp,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT530200,temp2,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT530300,temp3,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT530400,temp4,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT530500,temp5,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT530600,temp6,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT540000,A_GeneticLoci,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT540005,A_GeneticLoci,geneticVariation,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT550000,R_InvestigativeSubject,universal,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT560000,R_Subject,universal,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT570000,A_LaboratoryProcessingStep,universal,,25,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT580000,A_DataConsent,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT590000,A_Annotation,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT600000,A_BillableVisionDispense,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT610000,A_BillableSocialService,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT620000,R_ProductListed,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT620005,R_ProductListed,listed,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT620006,R_ProductReportable,reportable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT630000,A_RelevantInformationForProductReporting,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT650000,R_CredentialedEntity,abstract,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT650005,A_Indication,basic,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT650100,R_CredentialedProvider,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT650101,R_CredentialedProvider,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT650102,R_CredentialedProvider,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT650103,R_CredentialedProvider,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT650200,R_CredentialedDevice,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT650201,R_CredentialedDevice,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT650202,R_CredentialedDevice,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT650203,R_CredentialedDevice,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT660000,A_Dosage,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT670000,R_Guarantor,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT680000,A_InvoiceCoordination,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT680002,A_InvoiceCoordination,basic,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT680003,A_InvoiceCoordination,enhanced,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT690000,A_AdministeredMedication,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT710000,E_Place,universal,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT710007,E_Place,informational,,26,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT720000,A_MedicationOrderedAndSupplied,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT730000,A_BillableTreatmentPlan,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT740000,A_BillableOralHealthService,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT750000,A_BillingSupportInformation,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT760000,A_OralHealthObservation,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT770000,A_Benefit,universal,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT770005,A_Benefit,basic,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT780005,A_ProviderContract,basic,,17,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT800000,R_PatientPreferredProvider,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT810000,A_Verification,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT820000,A_PrincipalCareProvision,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT830110,A_DicomSequence,minimal,,19,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT830120,A_DicomCompositeObjectReference,minimal,,19,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT830210,A_CDADicomReference,unknown,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT830220,A_MessageDicomReference,unknown,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT840000,E_PublicHealthEntity,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT840100,E_PublicHealthNonPersonLivingSubject,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT840200,E_PublicHealthPerson,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT840300,E_PublicHealthVector,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT840500,E_PublicHealthPathogen,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT841000,E_PublicHealthFomite,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT841100,E_PublicHealthMaterial,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT841200,E_PublicHealthManufacturedMaterial,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT841300,E_PublicHealthPlace,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT841400,E_PublicHealthOrganization,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT841500,E_PublicHealthPhysicalEntity,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT850000,R_PublicHealthContactPerson,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT900000,A_DetectedIssue,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT900100,A_ManagedIssue,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT900300,A_ReportedIssue,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT910000,R_RelatedParty,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT910001,R_RelatedParty,identified,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT910002,R_RelatedParty,identified/confirmable,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT910003,R_RelatedParty,contact,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT910007,R_RelatedParty,informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT910008,R_RelatedParty,identified/informational,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT920000,A_MasterFileControlAct,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT930000,A_GeneticLocus,universal,,15,,f,2015-08-27 00:00:00,2015-08-27 00:00:00
+COCT_MT960000,A_SpatialCoordinate,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00
+COCT_MT970000,A_ResearchSubjectEnrollment,universal,,31,,f,2015-01-19 00:00:00,2015-01-19 00:00:00

@@ -1,0 +1,512 @@
+cmet_id,realm,ballot,release,ballot_level,ballot_status,notes
+COCT_MT030000,UV,2004-Jan,R01,member,Accepted,
+COCT_MT030000,UV,2005-May,R04,committee,Accepted,
+COCT_MT030000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT030000,UV,2007-Sep,R09,committee,Failed,
+COCT_MT030000,UV,2008-May,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030000,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT030000,UV,2009-Jan,R09,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030000,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT030002,UV,2004-Jan,R01,member,Accepted,
+COCT_MT030002,UV,2007-Sep,R07,committee,Accepted,
+COCT_MT030002,UV,2008-May,R07,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030002,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT030100,UV,2004-Jan,R01,member,Accepted,
+COCT_MT030100,UV,2006-May,R09,committee,Failed,
+COCT_MT030100,UV,2007-Sep,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT030100,UV,2008-May,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030100,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT030100,UV,2009-Jan,R09,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030100,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT030101,UV,2004-Jan,R01,member,Accepted,
+COCT_MT030101,UV,2006-May,R07,committee,Failed,
+COCT_MT030101,UV,2007-Sep,R07,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030101,UV,2008-May,R07,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030101,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT030102,UV,2004-Jan,R01,member,Accepted,
+COCT_MT030102,UV,2006-May,R07,committee,Failed,
+COCT_MT030102,UV,2007-Sep,R07,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030102,UV,2008-May,R07,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030102,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT030107,UV,2006-Jan,R07,committee,Failed,
+COCT_MT030107,UV,2006-May,R07,committee,Failed,
+COCT_MT030107,UV,2007-Sep,R07,committee,Failed,Master list wasn't clear; making assumptions from balloting documentation that the next level was member
+COCT_MT030107,UV,2008-May,R07,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030107,UV,2008-Sep,R07,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030107,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT030108,UV,2006-Jan,R07,committee,Failed,
+COCT_MT030108,UV,2006-May,R07,committee,Failed,
+COCT_MT030108,UV,2007-Sep,R07,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030108,UV,2008-May,R07,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030108,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT030200,UV,2004-Jan,R01,member,Accepted,
+COCT_MT030200,UV,2005-May,R09,committee,Accepted,
+COCT_MT030200,UV,2005-Sep,R09,member,Failed,
+COCT_MT030200,UV,2006-Jan,R09,committee,Failed,
+COCT_MT030200,UV,2006-May,R09,committee,Failed,
+COCT_MT030200,UV,2007-May,R09,committee,Failed,Master list wasn't clear; making assumptions from balloting documentation that the next level was member
+COCT_MT030200,UV,2007-Sep,R09,committee,Failed,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT030200,UV,2008-May,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030200,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT030200,UV,2009-Jan,R09,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030200,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT030201,UV,2004-Jan,R01,member,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT030201,UV,2007-May,R07,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030201,UV,2007-Sep,R07,member,Accepted,
+COCT_MT030201,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT030202,UV,2004-Jan,R01,member,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT030202,UV,2007-May,R07,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT030202,UV,2007-Sep,R07,committee,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT030202,UV,2008-May,R07,member,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT030202,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT030203,UV,2004-Jan,R02,committee,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT030203,UV,2004-May,R02,member,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT030203,UV,2007-May,R07,committee,Accepted,No info in Master List
+COCT_MT030203,UV,2007-Sep,R07,member,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT030203,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT030207,UV,2006-Jan,R07,committee,Failed,
+COCT_MT030207,UV,2006-May,R07,committee,Failed,
+COCT_MT030207,UV,2007-May,R07,committee,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT030207,UV,2007-Sep,R07,member,Failed,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT030207,UV,2008-May,R07,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030207,UV,2008-Sep,R07,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT030207,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT040000,UV,2004-Jan,R01,member,Accepted,
+COCT_MT040000,UV,2012-Sep,R01,reaffirm,Accepted,
+COCT_MT040200,UV,2004-Jan,R01,member,Accepted,
+COCT_MT040200,UV,2012-Sep,R01,reaffirm,Accepted,
+COCT_MT040203,UV,2004-Jan,R01,member,Accepted,
+COCT_MT040203,UV,2012-Sep,R01,reaffirm,Accepted,
+COCT_MT040205,UV,2004-Jan,R01,member,Accepted,
+COCT_MT040205,UV,2012-Sep,R01,reaffirm,Accepted,
+COCT_MT040300,UV,2004-Jan,R01,member,Accepted,
+COCT_MT040300,UV,2012-Sep,R01,reaffirm,Accepted,
+COCT_MT050001,UV,2004-Jan,R01,member,Accepted,
+COCT_MT050001,UV,2007-May,R07,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT050001,UV,2007-Sep,R07,member,Accepted,
+COCT_MT050001,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT050002,UV,2004-Jan,R04,member,Failed,
+COCT_MT050002,UV,2004-May,R04,member,Failed,
+COCT_MT050002,UV,2005-Jan,R04,committee,Failed,Using data from the CMET Master List Spreadsheet contained ballot history informaton as the ballot documentation included this CMET only under 'Summary of Changes'. 
+COCT_MT050002,UV,2005-May,R04,committee,Accepted,Using data from the CMET Master List Spreadsheet contained ballot history informaton as the ballot documentation included this CMET only under 'Summary of Changes'. 
+COCT_MT050002,UV,2005-Sep,R04,member,Accepted,
+COCT_MT050002,UV,2007-May,R07,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT050002,UV,2007-Sep,R07,committee,Failed,
+COCT_MT050002,UV,2008-May,R07,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT050002,UV,2008-Sep,R07,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT050002,UV,2009-Jan,R07,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT050002,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT050003,UV,2004-Jan,R04,committee,Failed,
+COCT_MT050003,UV,2004-May,R04,committee,Failed,
+COCT_MT050003,UV,2005-Jan,R04,committee,Failed,Using data from the CMET Master List Spreadsheet contained ballot history informaton as the ballot documentation included this CMET only under 'Summary of Changes'. 
+COCT_MT050003,UV,2005-May,R04,committee,Accepted,Using data from the CMET Master List Spreadsheet contained ballot history informaton as the ballot documentation included this CMET only under 'Summary of Changes'. 
+COCT_MT050003,UV,2005-Sep,R04,member,Accepted,
+COCT_MT050003,UV,2007-May,R09,committee,Failed,No info in Master List; making assumptions from Balloting documentation
+COCT_MT050003,UV,2007-Sep,R09,committee,Failed,
+COCT_MT050003,UV,2008-May,R09,committee,Failed,"Assume disposition of ""failed"" since the following ballot is at committee level"
+COCT_MT050003,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT050003,UV,2009-Jan,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT050003,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT050007,UV,2006-Jan,R08,committee,Failed,
+COCT_MT050007,UV,2006-May,R08,committee,Failed,
+COCT_MT050007,UV,2007-Jan,R08,inform,Failed,
+COCT_MT050007,UV,2007-May,R08,committee,Failed,The CMET Master List spreadsheet indicated CMET did not ballot; the ballot documentation indicated CMET would ballot at the committee level. 
+COCT_MT050007,UV,2007-Sep,R08,committee,Failed,
+COCT_MT050007,UV,2008-May,R08,committee,Accepted,"Assume disposition of ""accepted"" since the following ballot is at member level"
+COCT_MT050007,UV,2008-Sep,R08,member,Accepted,
+COCT_MT050007,UV,2012-Sep,R08,reaffirm,Accepted,
+COCT_MT050203,UV,2004-Jan,R01,member,Accepted,
+COCT_MT050203,UV,2007-May,R07,committee,Failed,No info in Master List; Ballot documentation indicates it balloted at committee level; assuming failed since the next ballot is at committee
+COCT_MT050203,UV,2007-Sep,R07,committee,Accepted,
+COCT_MT050203,UV,2008-May,R07,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT050203,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT050207,UV,2006-Jan,R07,committee,Failed,
+COCT_MT050207,UV,2006-May,R07,committee,Failed,
+COCT_MT050207,UV,2007-Jan,R07,inform,Failed,Is inform correct?     Master List had this entry but the ballot documentation list didn't include this
+COCT_MT050207,UV,2007-May,R07,committee,Accepted,Master List has an X for this row; Ballot documentation indicates it balloted at committee level; assuming passed since the next ballot is at member
+COCT_MT050207,UV,2007-Sep,R07,member,Accepted,
+COCT_MT050207,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT050208,UV,2006-Jan,R07,committee,Failed,Release? R07?
+COCT_MT050208,UV,2006-May,R07,committee,Failed,Release? R07?
+COCT_MT050208,UV,2007-Jan,R07,inform,Failed,Is inform correct?     Master List had this entry but the ballot documentation didn't
+COCT_MT050208,UV,2007-May,R07,committee,Accepted,Master List has an X for this row; Ballot documentation indicates it balloted at committee level; assuming failed since the next ballot is at committee
+COCT_MT050208,UV,2007-Sep,R07,member,Accepted,Master List has committee level; Ballot documentation indicates member level
+COCT_MT050208,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT080000,UV,2004-Jan,R09,committee,Failed,
+COCT_MT080000,UV,2004-May,R09,committee,Failed,
+COCT_MT080000,UV,2005-Jan,R09,dstu,Failed,
+COCT_MT080000,UV,2005-May,R09,committee,Accepted,
+COCT_MT080000,UV,2005-Sep,R09,dstu,Accepted,
+COCT_MT080000,UV,2006-Jan,R09,dstu,Failed,
+COCT_MT080000,UV,2006-May,R09,committee,Failed,
+COCT_MT080000,UV,2007-Jan,R09,committee,Failed,
+COCT_MT080000,UV,2008-Sep,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT080000,UV,2009-Jan,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT080000,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT080000,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT080100,UV,2004-Jan,R09,committee,Failed,
+COCT_MT080100,UV,2004-May,R09,committee,Failed,
+COCT_MT080100,UV,2005-Jan,R09,dstu,Failed,
+COCT_MT080100,UV,2005-May,R09,committee,Accepted,
+COCT_MT080100,UV,2005-Sep,R09,dstu,Accepted,
+COCT_MT080100,UV,2006-Jan,R09,dstu,Failed,
+COCT_MT080100,UV,2006-May,R09,committee,Failed,
+COCT_MT080100,UV,2007-Jan,R09,committee,Failed,
+COCT_MT080100,UV,2008-Sep,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT080100,UV,2009-Jan,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT080100,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT080100,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT080200,UV,2006-May,R09,committee,Failed,
+COCT_MT080200,UV,2007-Jan,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT080200,UV,2008-Sep,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT080200,UV,2009-Jan,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT080200,UV,2009-May,R09,normative,Accepted,"Assume disposition of ""accepted"" since no more balloting occurred"
+COCT_MT080200,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT110000,UV,2004-Jan,R01,member,Accepted,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT110000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT110000,UV,2005-May,R04,committee,Accepted,
+COCT_MT110000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT110000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT110100,UV,2004-Jan,R01,member,Accepted,
+COCT_MT110100,UV,2005-Jan,R04,committee,Failed,
+COCT_MT110100,UV,2005-May,R04,committee,Accepted,
+COCT_MT110100,UV,2005-Sep,R04,member,Accepted,
+COCT_MT110100,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT110101,UV,2005-Jan,R04,committee,Failed,
+COCT_MT110101,UV,2005-May,R04,committee,Accepted,
+COCT_MT110101,UV,2005-Sep,R04,member,Accepted,
+COCT_MT110101,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT110102,UV,2005-Jan,R04,committee,Failed,
+COCT_MT110102,UV,2005-May,R04,committee,Accepted,
+COCT_MT110102,UV,2005-Sep,R04,member,Accepted,
+COCT_MT110102,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT110200,UV,2004-Jan,R01,member,Accepted,
+COCT_MT110200,UV,2005-Jan,R04,committee,Failed,
+COCT_MT110200,UV,2005-May,R04,committee,Accepted,
+COCT_MT110200,UV,2005-Sep,R04,member,Accepted,
+COCT_MT110200,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT110201,UV,2005-Jan,R04,committee,Failed,
+COCT_MT110201,UV,2005-May,R04,committee,Accepted,
+COCT_MT110201,UV,2005-Sep,R04,member,Accepted,
+COCT_MT110201,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT110202,UV,2005-Jan,R04,committee,Failed,
+COCT_MT110202,UV,2005-May,R04,committee,Accepted,
+COCT_MT110202,UV,2005-Sep,R04,member,Accepted,
+COCT_MT110202,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT110300,UV,2004-Jan,R01,member,Accepted,
+COCT_MT110300,UV,2005-Jan,R04,committee,Failed,
+COCT_MT110300,UV,2005-May,R04,committee,Accepted,
+COCT_MT110300,UV,2005-Sep,R04,member,Accepted,
+COCT_MT110300,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT150003,UV,2004-Jan,R03,committee,Failed,
+COCT_MT150003,UV,2004-May,R03,committee,Failed,
+COCT_MT150003,UV,2005-Jan,R03,member,Accepted,
+COCT_MT150003,UV,2012-Sep,R03,reaffirm,Accepted,
+COCT_MT180000,UV,2004-Jan,R04,member,Failed,
+COCT_MT180000,UV,2004-May,R04,committee,Failed,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT180000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT180000,UV,2005-May,R04,committee,Accepted,
+COCT_MT180000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT180000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT190000,UV,2004-Jan,R01,member,Accepted,
+COCT_MT190000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT190000,UV,2005-May,R04,committee,Accepted,
+COCT_MT190000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT190000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT250000,UV,2004-Jan,R03,committee,Failed,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT250000,UV,2004-May,R03,committee,Failed,
+COCT_MT250000,UV,2005-Jan,R03,member,Accepted,
+COCT_MT250000,UV,2012-Sep,R03,reaffirm,Accepted,
+COCT_MT280000,UV,2004-Jan,R01,member,Accepted,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT280000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT280000,UV,2005-May,R04,committee,Accepted,
+COCT_MT280000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT280000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT290000,UV,2004-Jan,R01,member,Accepted,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT290000,UV,2005-Jan,R06,committee,Failed,
+COCT_MT290000,UV,2005-May,R06,committee,Failed,
+COCT_MT290000,UV,2005-Sep,R06,committee,Failed,
+COCT_MT290000,UV,2006-Jan,R06,committee,Failed,
+COCT_MT290000,UV,2006-Sep,R06,committee,Failed,
+COCT_MT290000,UV,2007-Jan,R06,committee,Failed,
+COCT_MT290000,UV,2007-May,R06,member,Failed,
+COCT_MT290000,UV,2007-Sep,R06,member,Accepted,
+COCT_MT290000,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT290002,UV,2005-Jan,R06,committee,Failed,
+COCT_MT290002,UV,2005-May,R06,committee,Failed,
+COCT_MT290002,UV,2005-Sep,R06,committee,Failed,
+COCT_MT290002,UV,2006-Jan,R06,committee,Failed,
+COCT_MT290002,UV,2006-Sep,R06,committee,Failed,
+COCT_MT290002,UV,2007-Jan,R06,committee,Failed,
+COCT_MT290002,UV,2007-May,R06,member,Failed,
+COCT_MT290002,UV,2007-Sep,R06,member,Accepted,
+COCT_MT290002,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT290003,UV,2004-Sep,R07,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT290003,UV,2005-Jan,R07,committee,Failed,
+COCT_MT290003,UV,2005-May,R07,committee,Failed,
+COCT_MT290003,UV,2005-Sep,R07,committee,Failed,
+COCT_MT290003,UV,2006-Jan,R07,committee,Failed,
+COCT_MT290003,UV,2006-Sep,R07,committee,Failed,
+COCT_MT290003,UV,2007-Jan,R07,committee,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT290003,UV,2007-May,R07,member,Failed,
+COCT_MT290003,UV,2007-Sep,R07,member,Accepted,
+COCT_MT290003,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT290004,UV,2005-May,R06,committee,Failed,
+COCT_MT290004,UV,2005-Sep,R06,committee,Failed,
+COCT_MT290004,UV,2006-Jan,R06,committee,Failed,
+COCT_MT290004,UV,2006-Sep,R06,committee,Failed,
+COCT_MT290004,UV,2007-Jan,R06,committee,Failed,
+COCT_MT290004,UV,2007-May,R06,member,Failed,
+COCT_MT290004,UV,2007-Sep,R06,member,Accepted,
+COCT_MT290004,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT300000,UV,2004-Jan,R04,member,Failed,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT300000,UV,2004-Sep,R04,committee,Failed,Master list wasn't clear; making assumptions from balloting documentation that the next level was member
+COCT_MT300000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT300000,UV,2005-May,R04,committee,Accepted,
+COCT_MT300000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT300000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT300001,UV,2005-May,R04,committee,Accepted,
+COCT_MT300001,UV,2005-Sep,R04,member,Accepted,
+COCT_MT300001,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT310000,UV,2004-Jan,R01,member,Accepted,
+COCT_MT310000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT310000,UV,2005-May,R04,committee,Accepted,
+COCT_MT310000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT310000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT320000,UV,2004-Jan,R01,member,Accepted,
+COCT_MT320000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT320000,UV,2005-May,R04,committee,Accepted,
+COCT_MT320000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT320000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT400000,UV,2007-Jan,R07,committee,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT400000,UV,2007-May,R07,member,Failed,
+COCT_MT400000,UV,2007-Sep,R07,member,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT400000,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT400100,UV,2007-Jan,R07,committee,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT400100,UV,2007-May,R07,member,Failed,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT400100,UV,2007-Sep,R07,member,Accepted,"Ballot documentation note: Passed, reballot due to nominally substantive negative ballot comments. Balloters who particiapted in the R6M2 ballot are especially encouraged to review the changes made to this CMET. "
+COCT_MT400100,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT410000,UV,2007-Sep,R08,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT410000,UV,2008-Sep,R08,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT410000,UV,2012-Sep,R08,reaffirm,Accepted,
+COCT_MT410300,UV,2008-Jan,R08,committee,Accepted,Master list wasn't clear with the release nor disposition; making assumptions from balloting documentation
+COCT_MT410300,UV,2008-Sep,R08,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT410300,UV,2012-Sep,R08,reaffirm,Accepted,
+COCT_MT411000,UV,2007-Sep,R08,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT411000,UV,2008-Sep,R08,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT411000,UV,2012-Sep,R08,reaffirm,Accepted,
+COCT_MT430000,UV,2008-May,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT430000,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT430000,UV,2009-Jan,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT430000,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT440000,UV,2008-May,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440000,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440000,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440000,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440000,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT440001,UV,2008-May,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440001,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440001,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440001,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440001,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT440004,UV,2008-May,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440004,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440004,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440004,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440004,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT440005,UV,2008-May,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440005,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440005,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440005,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440005,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT440006,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440006,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440006,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440006,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT440007,UV,2008-May,R09,committee,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440007,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440007,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT440007,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT440007,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT480000,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT480000,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT490000,UV,2004-Jan,R01,member,Accepted,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT490000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT490000,UV,2005-May,R04,committee,Accepted,
+COCT_MT490000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT490000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT500000,UV,2004-Jan,R02,member,Failed,
+COCT_MT500000,UV,2004-May,R02,member,Accepted,
+COCT_MT500000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT500000,UV,2005-May,R04,committee,Accepted,
+COCT_MT500000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT500000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT510000,UV,2007-Jan,R06,committee,Failed,
+COCT_MT510000,UV,2007-May,R06,member,Failed,
+COCT_MT510000,UV,2007-Sep,R06,member,Accepted,
+COCT_MT510000,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT510001,UV,2007-Jan,R06,committee,Failed,
+COCT_MT510001,UV,2007-May,R06,member,Failed,
+COCT_MT510001,UV,2007-Sep,R06,member,Accepted,
+COCT_MT510001,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT510002,UV,2007-Jan,R06,committee,Failed,
+COCT_MT510002,UV,2007-May,R06,member,Failed,
+COCT_MT510002,UV,2007-Sep,R06,member,Accepted,
+COCT_MT510002,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT510003,UV,2007-Jan,R06,committee,Failed,
+COCT_MT510003,UV,2007-May,R06,member,Failed,
+COCT_MT510003,UV,2007-Sep,R06,member,Accepted,
+COCT_MT510003,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT510004,UV,2007-Jan,R06,committee,Failed,
+COCT_MT510004,UV,2007-May,R06,member,Failed,
+COCT_MT510004,UV,2007-Sep,R06,member,Accepted,
+COCT_MT510004,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT510005,UV,2007-Jan,R06,committee,Failed,
+COCT_MT510005,UV,2007-May,R06,member,Failed,
+COCT_MT510005,UV,2007-Sep,R06,member,Accepted,
+COCT_MT510005,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT550000,UV,2007-May,R07,committee,Accepted,"Assume disposition of ""accepted"" since the following ballot is at member level"
+COCT_MT550000,UV,2007-Sep,R07,member,Accepted,Master List has Disposition of R; making assumptions from balloting documentation
+COCT_MT550000,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT560000,UV,2007-May,R07,committee,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT560000,UV,2007-Sep,R07,member,Accepted,Master List has committee level; Ballot documentation indicates member level
+COCT_MT560000,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT570000,UV,2007-May,R09,committee,Failed,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT570000,UV,2009-Jan,R09,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT570000,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT580000,UV,2007-May,R06,member,Failed,Master List and ballot documentation differed; went with ballot documenation info
+COCT_MT580000,UV,2007-Sep,R07,member,Accepted,"Note from ballot documentation: Passed, reballot due to nominally substantive affirmative change. Balloters who particiapted in the R6M2 ballot are especially encouraged to review the changes made to this CMET. "
+COCT_MT580000,UV,2012-Sep,R07,reaffirm,Accepted,
+COCT_MT600000,UV,2004-Jan,R06,member,Failed,
+COCT_MT600000,UV,2004-May,R06,committee,Failed,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT600000,UV,2005-Jan,R06,committee,Failed,
+COCT_MT600000,UV,2005-May,R06,committee,Accepted,
+COCT_MT600000,UV,2005-Sep,R06,member,Failed,
+COCT_MT600000,UV,2006-Jan,R06,committee,Failed,
+COCT_MT600000,UV,2007-Jan,R06,committee,Failed,
+COCT_MT600000,UV,2007-May,R06,committee,Failed,
+COCT_MT600000,UV,2007-Sep,R06,member,Accepted,
+COCT_MT600000,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT610000,UV,2007-May,R06,committee,Failed,
+COCT_MT610000,UV,2007-Sep,R06,member,Accepted,
+COCT_MT610000,UV,2012-Sep,R06,reaffirm,Accepted,
+COCT_MT670000,UV,2004-Jan,R01,member,Accepted,
+COCT_MT670000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT670000,UV,2005-May,R04,committee,Accepted,
+COCT_MT670000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT670000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT680000,UV,2004-Jan,R01,member,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT680000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT680000,UV,2005-May,R04,committee,Accepted,
+COCT_MT680000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT680000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT680002,UV,2005-Jan,R04,committee,Failed,
+COCT_MT680002,UV,2005-May,R04,committee,Accepted,
+COCT_MT680002,UV,2005-Sep,R04,member,Accepted,
+COCT_MT680002,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT680003,UV,2005-Jan,R04,committee,Failed,
+COCT_MT680003,UV,2005-May,R04,committee,Accepted,
+COCT_MT680003,UV,2005-Sep,R04,member,Accepted,
+COCT_MT680003,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT710000,UV,2004-Jan,R01,member,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT710000,UV,2007-Sep,R08,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT710000,UV,2008-May,R08,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT710000,UV,2012-Sep,R08,reaffirm,Accepted,
+COCT_MT710007,UV,2006-Jan,R08,committee,Failed,
+COCT_MT710007,UV,2006-May,R08,committee,Failed,
+COCT_MT710007,UV,2007-Sep,R08,committee,Accepted,Master List has an X for this row; making assumptions from balloting documentation
+COCT_MT710007,UV,2008-May,R08,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT710007,UV,2012-Sep,R08,reaffirm,Accepted,
+COCT_MT740000,UV,2004-May,R04,committee,Failed,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005"
+COCT_MT740000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT740000,UV,2005-May,R04,committee,Accepted,
+COCT_MT740000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT740000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT750000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT750000,UV,2005-May,R04,committee,Accepted,
+COCT_MT750000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT750000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT760000,UV,2005-Jan,R04,committee,Failed,
+COCT_MT760000,UV,2005-May,R04,committee,Accepted,
+COCT_MT760000,UV,2005-Sep,R04,member,Accepted,
+COCT_MT760000,UV,2012-Sep,R04,reaffirm,Accepted,
+COCT_MT770000,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT770000,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT770000,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT770000,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT770005,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT770005,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT770005,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT770005,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT780005,UV,2008-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT780005,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT780005,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT780005,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT830110,UV,2006-May,R05,committee,Failed,
+COCT_MT830110,UV,2006-Sep,R05,committee,Failed,
+COCT_MT830110,UV,2007-Jan,R05,member,Accepted,
+COCT_MT830110,UV,2012-Sep,R05,reaffirm,Accepted,
+COCT_MT830120,UV,2006-May,R05,committee,Failed,
+COCT_MT830120,UV,2006-Sep,R05,committee,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT830120,UV,2007-Jan,R05,member,Accepted,
+COCT_MT830120,UV,2009-Sep,R09,member,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT830120,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT840000,UV,2006-May,R09,committee,Failed,
+COCT_MT840000,UV,2007-Jan,R09,committee,Failed,
+COCT_MT840000,UV,2007-Sep,R09,committee,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT840000,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT840000,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT840000,UV,2009-May,R09,normative,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT840000,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT840100,UV,2007-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT840100,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT840100,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT840100,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT840100,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT840200,UV,2007-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT840200,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT840200,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT840200,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT840200,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT840300,UV,2007-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT840300,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT840300,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT840300,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT840300,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT840500,UV,2007-Sep,R08,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT840500,UV,2008-Sep,R08,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT840500,UV,2009-Jan,R08,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT840500,UV,2012-Sep,R08,reaffirm,Accepted,
+COCT_MT841000,UV,2007-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841000,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841000,UV,2009-Jan,R09,normative,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member
+COCT_MT841000,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT841100,UV,2007-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841100,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841100,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841100,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841100,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT841200,UV,2007-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841200,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841200,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841200,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841200,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT841300,UV,2007-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841300,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841300,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841300,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841300,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT841400,UV,2007-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841400,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841400,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841400,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841400,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT841500,UV,2007-Sep,R09,committee,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841500,UV,2008-Sep,R09,member,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841500,UV,2009-Jan,R09,normative,Failed,No info in Master List; making assumptions from balloting documentation
+COCT_MT841500,UV,2009-May,R09,normative,Accepted,No info in Master List; making assumptions from balloting documentation
+COCT_MT841500,UV,2012-Sep,R09,reaffirm,Accepted,
+COCT_MT960000,UV,2006-May,R05,committee,Failed,
+COCT_MT960000,UV,2006-Sep,R05,member,Failed,
+COCT_MT960000,UV,2007-Jan,R05,member,Accepted,
+COCT_MT960000,UV,2012-Sep,R05,reaffirm,Accepted,

@@ -17,9 +17,12 @@ ActiveRecord::Schema.define(version: 20140514171022) do
   enable_extension "plpgsql"
 
   create_table "ballot_cmets", force: true do |t|
-    t.integer "ballot_id",              null: false
-    t.integer "cmet_id",                null: false
-    t.string  "disposition", limit: 10, null: false
+    t.integer  "ballot_id",                  null: false
+    t.integer  "cmet_version_id",            null: false
+    t.string   "disposition",     limit: 10
+    t.text     "notes"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "ballot_cycles", primary_key: "cycle", force: true do |t|
@@ -31,8 +34,8 @@ ActiveRecord::Schema.define(version: 20140514171022) do
 
   create_table "ballots", force: true do |t|
     t.integer  "work_group_id",                  null: false
-    t.string   "ballot_cycle",        limit: 7,  null: false
-    t.string   "level",               limit: 10
+    t.string   "ballot_cycle",        limit: 8,  null: false
+    t.string   "level",               limit: 10, null: false
     t.string   "result",              limit: 10
     t.date     "result_date"
     t.string   "reconciliation_path"
@@ -59,17 +62,20 @@ ActiveRecord::Schema.define(version: 20140514171022) do
     t.datetime "updated_at"
   end
 
+  add_index "cmet_versions", ["cmet_id", "release"], name: "index_cmet_versions_on_cmet_id_and_release", unique: true, using: :btree
+
   create_table "cmets", primary_key: "ident", force: true do |t|
-    t.string   "descriptor",    limit: 50
-    t.string   "attribution",   limit: 30
+    t.string   "descriptor",    limit: 50,                 null: false
+    t.string   "attribution",   limit: 30,                 null: false
     t.text     "description"
-    t.integer  "work_group_id"
+    t.integer  "work_group_id",                            null: false
     t.string   "domain",        limit: 2
     t.boolean  "retired",                  default: false, null: false
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
+  add_index "cmets", ["descriptor", "attribution"], name: "index_cmets_on_descriptor_and_attribution", unique: true, using: :btree
   add_index "cmets", ["ident"], name: "index_cmets_on_ident", unique: true, using: :btree
 
   create_table "code_values", force: true do |t|

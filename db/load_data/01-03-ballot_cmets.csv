@@ -1,0 +1,512 @@
+id,ballot_id,cmet_version_id,status,notes,created_at,updated_at
+1,1,124,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+2,1,48,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+3,1,29,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+4,1,65,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+5,1,64,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+6,1,152,Failed,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+7,2,103,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+8,2,111,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+9,2,11,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+10,2,12,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+11,2,107,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+12,2,15,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+13,2,17,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+14,2,173,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+15,2,19,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+16,2,126,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+17,2,100,Accepted,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+18,2,127,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+19,2,264,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+20,2,154,Accepted,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+21,2,23,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+22,2,156,Accepted,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+23,2,259,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+24,2,53,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+25,2,25,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+26,2,257,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+27,2,27,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+28,2,240,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+29,2,169,Failed,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+30,2,213,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+31,2,171,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+32,2,46,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+33,2,32,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+34,2,36,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+35,2,210,Accepted,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+36,2,37,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+37,2,38,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+38,2,41,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+39,2,44,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+40,3,65,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+41,3,48,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+42,3,152,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+43,3,126,Failed,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+44,3,64,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+45,3,124,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+46,3,240,Failed,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+47,3,269,Failed,"Ballot history info only resided in the CMET Master Spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+48,4,46,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+49,4,29,Accepted,"Ballot history info only resided in the CMET Master List spreadsheet; did not have CMET info in ballot documentation until January, 2005",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+50,4,213,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+51,5,159,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+52,5,169,Failed,Master list wasn't clear; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+53,6,46,Failed,Using data from the CMET Master List Spreadsheet contained ballot history informaton as the ballot documentation included this CMET only under 'Summary of Changes'. ,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+54,6,271,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+55,6,105,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+56,6,126,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+57,6,270,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+58,6,104,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+59,6,172,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+60,6,269,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+61,6,101,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+62,6,240,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+63,6,112,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+64,6,108,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+65,6,110,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+66,6,262,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+67,6,109,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+68,6,261,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+69,6,128,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+70,6,214,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+71,6,260,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+72,6,155,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+73,6,48,Failed,Using data from the CMET Master List Spreadsheet contained ballot history informaton as the ballot documentation included this CMET only under 'Summary of Changes'. ,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+74,6,258,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+75,6,157,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+76,6,158,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+77,6,174,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+78,6,159,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+79,6,169,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+80,6,211,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+81,6,106,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+82,7,65,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+83,7,64,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+84,8,124,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+85,8,152,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+86,9,24,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+87,9,46,Accepted,Using data from the CMET Master List Spreadsheet contained ballot history informaton as the ballot documentation included this CMET only under 'Summary of Changes'. ,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+88,9,211,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+89,9,172,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+90,9,170,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+91,9,48,Accepted,Using data from the CMET Master List Spreadsheet contained ballot history informaton as the ballot documentation included this CMET only under 'Summary of Changes'. ,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+92,9,214,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+93,9,240,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+94,9,169,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+95,9,160,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+96,9,258,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+97,9,174,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+98,9,159,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+99,9,158,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+100,9,157,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+101,9,260,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+102,9,155,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+103,9,64,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+104,9,261,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+105,9,65,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+106,9,262,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+107,9,128,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+108,9,269,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+109,9,101,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+110,9,104,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+111,9,270,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+112,9,105,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+113,9,271,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+114,9,126,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+115,9,106,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+116,9,108,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+117,9,10,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+118,9,109,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+119,9,110,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+120,9,112,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+121,10,157,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+122,10,158,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+123,10,159,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+124,10,160,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+125,11,65,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+126,11,64,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+127,12,240,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+128,12,105,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+129,12,260,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+130,12,110,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+131,12,109,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+132,12,155,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+133,12,174,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+134,12,261,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+135,12,106,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+136,12,262,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+137,12,112,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+138,12,10,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+139,12,128,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+140,12,46,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+141,12,211,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+142,12,269,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+143,12,172,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+144,12,126,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+145,12,170,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+146,12,214,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+147,12,48,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+148,12,101,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+149,12,108,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+150,12,271,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+151,12,258,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+152,12,270,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+153,12,169,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+154,12,104,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+155,12,24,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+156,13,21,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+157,13,160,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+158,13,159,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+159,13,51,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+160,13,55,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+161,13,157,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+162,13,158,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+163,13,240,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+164,13,24,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+165,13,31,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+166,13,266,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+167,13,22,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+168,13,56,Failed,Release? R07?,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+169,14,64,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+170,14,65,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+171,15,55,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+172,15,280,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+173,15,22,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+174,15,56,Failed,Release? R07?,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+175,15,21,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+176,15,65,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+177,15,24,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+178,15,18,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+179,15,284,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+180,15,66,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+181,15,16,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+182,15,266,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+183,15,20,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+184,15,51,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+185,15,31,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+186,15,279,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+187,15,307,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+188,15,64,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+189,16,160,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+190,16,158,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+191,16,157,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+192,16,279,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+193,16,159,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+194,16,280,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+195,17,307,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+196,18,160,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+197,18,64,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+198,18,65,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+199,18,66,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+200,18,157,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+201,18,158,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+202,18,159,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+203,18,179,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+204,18,187,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+205,18,215,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+206,18,216,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+207,18,217,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+208,18,218,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+209,18,219,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+210,18,220,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+211,18,240,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+212,18,284,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+213,19,51,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+214,19,55,Failed,Is inform correct?     Master List had this entry but the ballot documentation list didn't include this,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+215,19,56,Failed,Is inform correct?     Master List had this entry but the ballot documentation didn't,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+216,20,307,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+217,20,280,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+218,20,279,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+219,21,28,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+220,21,31,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+221,21,234,Accepted,"Assume disposition of ""accepted"" since the following ballot is at member level",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+222,21,241,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+223,21,45,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+224,21,236,Failed,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+225,21,56,Accepted,Master List has an X for this row; Ballot documentation indicates it balloted at committee level; assuming failed since the next ballot is at committee,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+226,21,47,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+227,21,51,Failed,The CMET Master List spreadsheet indicated CMET did not ballot; the ballot documentation indicated CMET would ballot at the committee level. ,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+228,21,49,Failed,No info in Master List; making assumptions from Balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+229,21,240,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+230,21,24,Failed,Master list wasn't clear; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+231,21,235,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+232,21,55,Accepted,Master List has an X for this row; Ballot documentation indicates it balloted at committee level; assuming passed since the next ballot is at member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+233,21,30,Accepted,No info in Master List,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+234,21,26,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+235,21,54,Failed,No info in Master List; Ballot documentation indicates it balloted at committee level; assuming failed since the next ballot is at committee,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+236,22,179,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+237,22,237,Failed,Master List and ballot documentation differed; went with ballot documenation info,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+238,22,160,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+239,22,157,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+240,22,220,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+241,22,219,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+242,22,218,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+243,22,217,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+244,22,216,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+245,22,158,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+246,22,215,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+247,22,159,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+248,22,187,Failed,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+249,23,21,Failed,Master list wasn't clear; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+250,23,22,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+251,23,24,Failed,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+252,23,291,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+253,23,290,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+254,23,54,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+255,23,51,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+256,23,289,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+257,23,49,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+258,23,288,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+259,23,47,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+260,23,287,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+261,23,286,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+262,23,285,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+263,23,293,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+264,23,195,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+265,23,284,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+266,23,197,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+267,23,9,Failed,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+268,23,292,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+269,23,13,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+270,23,16,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+271,23,294,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+272,23,18,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+273,23,20,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+274,23,266,Accepted,Master List has an X for this row; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+275,23,265,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+276,23,28,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+277,24,187,Accepted,"Ballot documentation note: Passed, reballot due to nominally substantive negative ballot comments. Balloters who particiapted in the R6M2 ballot are especially encouraged to review the changes made to this CMET. ",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+278,24,216,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+279,24,159,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+280,24,220,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+281,24,30,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+282,24,238,Accepted,"Note from ballot documentation: Passed, reballot due to nominally substantive affirmative change. Balloters who particiapted in the R6M2 ballot are especially encouraged to review the changes made to this CMET. ",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+283,24,219,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+284,24,160,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+285,24,179,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+286,24,240,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+287,24,215,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+288,24,234,Accepted,Master List has Disposition of R; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+289,24,217,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+290,24,31,Failed,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+291,24,45,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+292,24,241,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+293,24,218,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+294,24,26,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+295,24,157,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+296,24,56,Accepted,Master List has committee level; Ballot documentation indicates member level,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+297,24,158,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+298,24,235,Accepted,Master List has committee level; Ballot documentation indicates member level,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+299,24,55,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+300,25,196,Accepted,Master list wasn't clear with the release nor disposition; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+301,26,200,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+302,26,31,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+303,26,49,Failed,"Assume disposition of ""failed"" since the following ballot is at committee level",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+304,26,206,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+305,26,9,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+306,26,24,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+307,26,199,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+308,26,21,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+309,26,47,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+310,26,16,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+311,26,201,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+312,26,51,Accepted,"Assume disposition of ""accepted"" since the following ballot is at member level",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+313,26,203,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+314,26,204,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+315,27,18,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+316,27,13,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+317,27,20,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+318,27,28,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+319,27,265,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+320,27,22,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+321,27,266,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+322,27,54,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+323,28,204,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+324,28,199,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+325,28,47,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+326,28,200,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+327,28,201,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+328,28,203,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+329,28,64,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+330,28,49,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+331,28,205,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+332,28,206,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+333,28,275,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+334,28,66,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+335,28,274,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+336,28,273,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+337,28,65,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+338,29,290,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+339,29,289,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+340,29,31,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+341,29,288,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+342,29,292,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+343,29,16,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+344,29,21,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+345,29,51,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+346,29,293,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+347,29,291,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+348,29,9,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+349,29,285,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+350,29,284,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+351,29,197,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+352,29,196,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+353,29,24,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+354,29,286,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+355,29,294,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+356,29,195,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+357,29,287,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+358,30,66,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+359,30,65,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+360,30,64,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+361,31,24,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+362,31,236,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+363,31,9,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+364,31,16,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+365,32,291,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+366,32,294,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+367,32,292,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+368,32,293,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+369,32,289,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+370,32,273,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+371,32,274,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+372,32,275,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+373,32,206,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+374,32,205,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+375,32,49,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+376,32,204,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+377,32,203,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+378,32,288,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+379,32,201,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+380,32,200,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+381,32,284,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+382,32,199,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+383,32,47,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+384,32,285,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+385,32,290,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+386,32,286,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+387,32,287,Failed,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+388,33,66,Accepted,"Assume disposition of ""accepted"" since no more balloting occurred",2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+389,33,65,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+390,33,64,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+391,33,293,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+392,33,200,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+393,33,201,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+394,33,203,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+395,33,204,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+396,33,205,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+397,33,206,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+398,33,209,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+399,33,294,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+400,33,273,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+401,33,274,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+402,33,275,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+403,33,284,Accepted,Master list wasn't clear with the disposition; making assumptions from balloting documentation that the next level was member,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+404,33,285,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+405,33,286,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+406,33,287,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+407,33,290,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+408,33,291,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+409,33,292,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+410,34,281,Accepted,No info in Master List; making assumptions from balloting documentation,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+411,35,265,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+412,35,238,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+413,35,236,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+414,35,266,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+415,35,235,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+416,35,234,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+417,35,21,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+418,35,220,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+419,35,269,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+420,35,307,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+421,35,20,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+422,35,219,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+423,35,218,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+424,35,270,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+425,35,18,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+426,35,217,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+427,35,216,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+428,35,271,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+429,35,215,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+430,35,31,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+431,35,16,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+432,35,273,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+433,35,109,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+434,35,214,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+435,35,32,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+436,35,274,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+437,35,126,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+438,35,36,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+439,35,211,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+440,35,275,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+441,35,108,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+442,35,37,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+443,35,209,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+444,35,279,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+445,35,206,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+446,35,205,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+447,35,204,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+448,35,203,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+449,35,13,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+450,35,201,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+451,35,281,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+452,35,284,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+453,35,106,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+454,35,200,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+455,35,199,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+456,35,197,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+457,35,196,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+458,35,195,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+459,35,285,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+460,35,105,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+461,35,294,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+462,35,187,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+463,35,179,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+464,35,286,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+465,35,104,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+466,35,38,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+467,35,41,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+468,35,45,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+469,35,287,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+470,35,101,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+471,35,174,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+472,35,47,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+473,35,172,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+474,35,288,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+475,35,170,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+476,35,49,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+477,35,169,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+478,35,289,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+479,35,51,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+480,35,9,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+481,35,160,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+482,35,290,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+483,35,152,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+484,35,54,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+485,35,159,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+486,35,55,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+487,35,291,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+488,35,128,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+489,35,158,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+490,35,56,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+491,35,157,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+492,35,292,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+493,35,66,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+494,35,64,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+495,35,155,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+496,35,65,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+497,35,293,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+498,35,124,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+499,35,112,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+500,35,110,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+501,35,260,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+502,35,26,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+503,35,261,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+504,35,24,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+505,35,258,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+506,35,241,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+507,35,262,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+508,35,22,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+509,35,28,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+510,35,240,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06
+511,35,30,Accepted,,2015-08-30 18:05:26.798885-06,2015-08-30 18:05:26.798885-06

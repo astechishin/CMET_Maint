@@ -5,10 +5,12 @@ class CreateCmetVersions < ActiveRecord::Migration
       t.string     :realm, limit: 10
       t.string     :release, limit: 3
       t.string     :status, limit: 10
-      t.date       :status_date#, null: false
+      t.date       :status_date
       t.text       :notes
 
       t.timestamps
+
+      t.index [:cmet_id, :release], unique: true
     end
 
     create_table :cmet_version_notes do |t|
