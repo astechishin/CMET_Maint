@@ -155,6 +155,7 @@ GEM
     rb-fsevent (0.9.4)
     rb-inotify (0.9.4)
       ffi (>= 0.5.0)
+    rb-readline (0.5.3)
     rdoc (4.1.1)
       json (~> 1.4)
     responders (1.1.1)
@@ -253,6 +254,7 @@ DEPENDENCIES
   rails (= 4.1.6)
   rails_12factor
   rails_db_info
+  rb-readline
   rspec-legacy_formatters
   rspec-rails
   sass-rails (~> 4.0.0)

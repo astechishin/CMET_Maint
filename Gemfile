@@ -48,6 +48,7 @@ group :test, :development do
   gem 'taps'
   gem 'table_print'
   gem 'rails_db_info'
+  gem 'rb-readline'
 end
 
 gem 'quiet_assets', group: :development
