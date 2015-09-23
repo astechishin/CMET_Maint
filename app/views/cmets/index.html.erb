@@ -15,19 +15,17 @@
       <th>Attribution</th>
       <th>Work group</th>
       <th>Domain</th>
-      <th></th>
     </tr>
   </thead>
 
   <tbody>
     <% @cmets.each do |cmet| %>
       <tr>
-        <td><%= cmet.ident %></td>
+        <td><%= link_to cmet.ident, cmet_path(cmet.ident) %></td>
         <td><%= cmet.descriptor %></td>
         <td><%= cmet.attribution %></td>
         <td><%= cmet.work_group ? cmet.work_group.name : '' %></td>
         <td><%= cmet.domain %></td>
-        <td><%= link_to 'Show', cmet_path(cmet.ident) %></td>
       </tr>
     <% end %>
   </tbody>
