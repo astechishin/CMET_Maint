@@ -1,3 +1,4 @@
+<!--
 <div class="fixed">
   <nav class="top-bar" data-topbar>
     <ul class="title-area">
@@ -27,4 +28,27 @@
       </ul>
     </section>
   </nav>
+</div>
+-->
+<div data-sticky-container>
+  <div class="top-bar" data-sticky data-options="marginTop:0;" style="width:100%">
+    <div class="top-bar-title">
+      <h2><%= image_tag 'HL7logo.gif' %><%= link_to '  CMET Management', cmets_path %></h2>
+    </div>
+    <div>
+      <div class="top-bar-right">
+        <ul class="dropdown menu" data-dropdown-menu>
+          <li><%= link_to 'Work Groups', work_groups_path %></li>
+          <li>
+            <a href="#">Reports</a>
+            <ul class="vertical dropdown menu" data-dropdown-menu>
+              <li><label>Management Reports</label></li>
+              <li class="divider"></li>
+              <li><label>Operational Reports</label></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>

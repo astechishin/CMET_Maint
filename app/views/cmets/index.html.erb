@@ -2,7 +2,7 @@
 
 <%= form_tag(cmets_path, method: :get, id: 'search-form') do %>
     <%= text_field_tag :search, params[:search], placeholder: 'CMET Search Text' %>
-    <%= select_tag 'filter[work_group]', options_from_collection_for_select(WorkGroup.all, :id, :name), include_blank: true %>
+    <%= select_tag 'filter[work_group]', options_from_collection_for_select(WorkGroup.all, :id, :acronym), include_blank: true %>
     <%= select_tag 'filter[domain]', options_from_collection_for_select(CodeValue.by_table('domain'), :code, :long_value), include_blank: true %>
     <%= submit_tag 'Search', :name => nil %>
 <% end %>
@@ -13,7 +13,7 @@
       <th>Identifier</th>
       <th>Descriptor</th>
       <th>Attribution</th>
-      <th>Work group</th>
+      <th>Work Group</th>
       <th>Domain</th>
     </tr>
   </thead>
@@ -24,7 +24,7 @@
         <td><%= link_to cmet.ident, cmet_path(cmet.ident) %></td>
         <td><%= cmet.descriptor %></td>
         <td><%= cmet.attribution %></td>
-        <td><%= cmet.work_group ? cmet.work_group.name : '' %></td>
+        <td><%= cmet.work_group ? cmet.work_group.acronym : '' %></td>
         <td><%= cmet.domain %></td>
       </tr>
     <% end %>

@@ -16,7 +16,7 @@ ActiveRecord::Schema.define(version: 20140514171022) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "ballot_cmets", force: true do |t|
+  create_table "ballot_cmets", force: :cascade do |t|
     t.integer  "ballot_id",                  null: false
     t.integer  "cmet_version_id",            null: false
     t.string   "disposition",     limit: 10
@@ -25,14 +25,14 @@ ActiveRecord::Schema.define(version: 20140514171022) do
     t.datetime "updated_at"
   end
 
-  create_table "ballot_cycles", primary_key: "cycle", force: true do |t|
+  create_table "ballot_cycles", primary_key: "cycle", force: :cascade do |t|
     t.date     "open"
     t.date     "close"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  create_table "ballots", force: true do |t|
+  create_table "ballots", force: :cascade do |t|
     t.integer  "work_group_id",                  null: false
     t.string   "ballot_cycle",        limit: 8,  null: false
     t.string   "level",               limit: 10, null: false
@@ -43,7 +43,7 @@ ActiveRecord::Schema.define(version: 20140514171022) do
     t.datetime "updated_at"
   end
 
-  create_table "cmet_version_notes", force: true do |t|
+  create_table "cmet_version_notes", force: :cascade do |t|
     t.integer  "cmet_version_id", null: false
     t.text     "note",            null: false
     t.string   "author"
@@ -51,7 +51,7 @@ ActiveRecord::Schema.define(version: 20140514171022) do
     t.datetime "updated_at"
   end
 
-  create_table "cmet_versions", force: true do |t|
+  create_table "cmet_versions", force: :cascade do |t|
     t.string   "cmet_id",     limit: 13, null: false
     t.string   "realm",       limit: 10
     t.string   "release",     limit: 3
@@ -64,7 +64,7 @@ ActiveRecord::Schema.define(version: 20140514171022) do
 
   add_index "cmet_versions", ["cmet_id", "release"], name: "index_cmet_versions_on_cmet_id_and_release", unique: true, using: :btree
 
-  create_table "cmets", primary_key: "ident", force: true do |t|
+  create_table "cmets", primary_key: "ident", force: :cascade do |t|
     t.string   "descriptor",    limit: 50,                 null: false
     t.string   "attribution",   limit: 30,                 null: false
     t.text     "description"
@@ -78,7 +78,7 @@ ActiveRecord::Schema.define(version: 20140514171022) do
   add_index "cmets", ["descriptor", "attribution"], name: "index_cmets_on_descriptor_and_attribution", unique: true, using: :btree
   add_index "cmets", ["ident"], name: "index_cmets_on_ident", unique: true, using: :btree
 
-  create_table "code_values", force: true do |t|
+  create_table "code_values", force: :cascade do |t|
     t.string "table",      limit: 10
     t.string "code",       limit: 10
     t.string "long_value", limit: 25
@@ -87,8 +87,8 @@ ActiveRecord::Schema.define(version: 20140514171022) do
 
   add_index "code_values", ["table", "code"], name: "index_code_values_on_table_and_code", unique: true, using: :btree
 
-  create_table "work_groups", force: true do |t|
-    t.string   "acronym",    limit: 6
+  create_table "work_groups", force: :cascade do |t|
+    t.string   "acronym",    limit: 12
     t.string   "name",       limit: 50,                null: false
     t.boolean  "active",                default: true, null: false
     t.datetime "created_at"

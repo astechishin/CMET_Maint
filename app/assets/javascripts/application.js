@@ -12,8 +12,10 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require jquery.ui.autocomplete
+//= require jquery-ui
 //= require foundation
 //= require_tree .
 
+//$(function(){ $(document).foundation(); });
+$(document).foundation();
 $(function(){ $(document).foundation(); });

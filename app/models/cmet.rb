@@ -15,7 +15,7 @@ class Cmet < ActiveRecord::Base
     if query.present?
       search(query)
     else
-      all.id_order
+      all.id_order.includes(:work_group)
     end
   end
 

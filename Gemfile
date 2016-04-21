@@ -2,13 +2,13 @@ source 'https://rubygems.org'
 ruby '2.2.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.8'
+gem 'rails', '4.2.6'
 
 # Use postgresql as the database for Active Record
 gem 'pg'
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 4.0.0'
+gem 'sass-rails'#, '~> 4.0.0'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
@@ -21,8 +21,8 @@ gem 'coffee-rails', '~> 4.0.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
-gem 'jquery-ui-rails', '~> 4.0.2'
-gem 'jquery-ui-sass-rails'
+gem 'jquery-ui-rails'
+# gem 'jquery-ui-sass-rails'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 #gem 'turbolinks'
@@ -34,17 +34,17 @@ gem 'font-awesome-rails'
 gem 'pg_search'
 
 gem 'foundation-rails'
-gem 'compass-rails', '~>2.0.alpha.0'
+gem 'compass-rails'#, '~>2.0.alpha.0'
 
 group :test, :development do
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'guard'
-  gem 'guard-rspec'
-  gem 'rspec-rails'
+  gem 'guard-rspec', '4.6.4', require: false
+  gem 'rspec-rails', '3.4.2'
   gem 'faker'
-  gem 'machinist', '>= 2.0.0.beta2'
-  gem 'rspec-legacy_formatters',  require: false
+  gem 'machinist'
+  # gem 'rspec-legacy_formatters',  require: false
   gem 'thin'
   gem 'taps'
   gem 'table_print'

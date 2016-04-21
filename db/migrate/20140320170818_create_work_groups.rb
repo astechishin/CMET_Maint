@@ -1,7 +1,7 @@
 class CreateWorkGroups < ActiveRecord::Migration
   def change
     create_table :work_groups do |t|
-      t.string       :acronym, limit:6
+      t.string       :acronym, limit:12
       t.string       :name, limit: 50, null: false
       t.boolean      :active, null: false, default: true
 
